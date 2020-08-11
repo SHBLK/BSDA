@@ -1,3 +1,4 @@
+/*Modified version of a code written originally by Mingyuan Zhou*/
 #include "mex.h"
 
 mwIndex BinarySearch(double probrnd, double *prob_cumsum, mwSize Ksize) {
